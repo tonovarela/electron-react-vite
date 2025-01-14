@@ -7,7 +7,7 @@ import './App.css'
 function App() {  
   
   return (
-    <div className='App'>
+    <div className='App text-blue-500'>
       <div className='logo-box'>
         <a href='https://github.com/electron-vite/electron-vite-react' target='_blank'>
           <img src={logoVite} className='logo vite' alt='Electron + Vite logo' />
